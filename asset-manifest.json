@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/igvio/static/css/main.49375873.chunk.css",
-    "main.js": "/igvio/static/js/main.e5d28658.chunk.js",
-    "main.js.map": "/igvio/static/js/main.e5d28658.chunk.js.map",
-    "runtime-main.js": "/igvio/static/js/runtime-main.60c1e775.js",
-    "runtime-main.js.map": "/igvio/static/js/runtime-main.60c1e775.js.map",
-    "static/css/2.218453dc.chunk.css": "/igvio/static/css/2.218453dc.chunk.css",
-    "static/js/2.832a33fc.chunk.js": "/igvio/static/js/2.832a33fc.chunk.js",
-    "static/js/2.832a33fc.chunk.js.map": "/igvio/static/js/2.832a33fc.chunk.js.map",
+    "main.css": "/igvio/static/css/main.88e81c42.chunk.css",
+    "main.js": "/igvio/static/js/main.0b2aacbf.chunk.js",
+    "main.js.map": "/igvio/static/js/main.0b2aacbf.chunk.js.map",
+    "runtime-main.js": "/igvio/static/js/runtime-main.14843b12.js",
+    "runtime-main.js.map": "/igvio/static/js/runtime-main.14843b12.js.map",
+    "static/css/2.e650dc27.chunk.css": "/igvio/static/css/2.e650dc27.chunk.css",
+    "static/js/2.5ee7d354.chunk.js": "/igvio/static/js/2.5ee7d354.chunk.js",
+    "static/js/2.5ee7d354.chunk.js.map": "/igvio/static/js/2.5ee7d354.chunk.js.map",
     "index.html": "/igvio/index.html",
-    "static/css/2.218453dc.chunk.css.map": "/igvio/static/css/2.218453dc.chunk.css.map",
-    "static/css/main.49375873.chunk.css.map": "/igvio/static/css/main.49375873.chunk.css.map",
-    "static/js/2.832a33fc.chunk.js.LICENSE.txt": "/igvio/static/js/2.832a33fc.chunk.js.LICENSE.txt",
+    "static/css/2.e650dc27.chunk.css.map": "/igvio/static/css/2.e650dc27.chunk.css.map",
+    "static/css/main.88e81c42.chunk.css.map": "/igvio/static/css/main.88e81c42.chunk.css.map",
+    "static/js/2.5ee7d354.chunk.js.LICENSE.txt": "/igvio/static/js/2.5ee7d354.chunk.js.LICENSE.txt",
     "static/media/feed.1b2e5222.svg": "/igvio/static/media/feed.1b2e5222.svg",
     "static/media/heart.926fc975.svg": "/igvio/static/media/heart.926fc975.svg",
     "static/media/igtv-icon.1e027e0f.svg": "/igvio/static/media/igtv-icon.1e027e0f.svg",
@@ -23,10 +23,10 @@
     "static/media/story-icon.4e049e09.svg": "/igvio/static/media/story-icon.4e049e09.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.60c1e775.js",
-    "static/css/2.218453dc.chunk.css",
-    "static/js/2.832a33fc.chunk.js",
-    "static/css/main.49375873.chunk.css",
-    "static/js/main.e5d28658.chunk.js"
+    "static/js/runtime-main.14843b12.js",
+    "static/css/2.e650dc27.chunk.css",
+    "static/js/2.5ee7d354.chunk.js",
+    "static/css/main.88e81c42.chunk.css",
+    "static/js/main.0b2aacbf.chunk.js"
   ]
 }
