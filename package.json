@@ -1,6 +1,6 @@
 {
     "name": "instagram-tools",
-    "homepage": "http://yasin-ai.github.io/igvio",
+    "homepage": "https://igvio-xvi2.vercel.app/igvio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
